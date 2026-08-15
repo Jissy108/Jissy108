@@ -96,9 +96,9 @@ Android drawing application built with **Kotlin & XML**.
 
 ## 🏆 Achievements
 
-🏅 **4th Rank** — Syntax Siege DSA Competition, MMMUT
-💡 **Smart India Hackathon** — Advanced to institutional internal shortlisting
-🏗️ **Bridgekriti** — Participated at TechSrijan
+* 🏅 **4th Rank** — Syntax Siege DSA Competition, MMMUT
+* 💡 **Smart India Hackathon** — Advanced to institutional internal shortlisting
+* 🏗️ **Bridgekriti** — Participated at TechSrijan
 
 ---
 
