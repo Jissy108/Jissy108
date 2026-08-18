@@ -11,7 +11,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+##  About Me
 
 * 📱 Currently focused on **Android Development**
 * 🚀 Building applications using **Kotlin, XML, Retrofit, Room & Firebase**
@@ -31,7 +31,7 @@
   <img src="https://skillicons.dev/icons?i=cpp,java,kotlin,python" />
 </p>
 
-### Android & Development
+### Android Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=androidstudio,firebase,retrofit" />
